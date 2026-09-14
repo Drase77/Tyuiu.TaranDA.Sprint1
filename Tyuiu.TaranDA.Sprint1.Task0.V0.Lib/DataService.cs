@@ -6,7 +6,7 @@ namespace Tyuiu.TaranDA.Sprint1.Task0.V0.Lib
     {
         public double Calculate()
         {
-            return 10 / (2 + 3);
+            return (9 / 3) * 4 / 3 / 2 + 1;
         }
     }
 }
