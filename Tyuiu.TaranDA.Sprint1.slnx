@@ -1,7 +1,7 @@
 <Solution>
   <Folder Name="/Task0/">
-    <Project Path="Tyuiu.TaranDA.Sprint1.Task0.V0.Lib/Tyuiu.TaranDA.Sprint1.Task0.V0.Lib.csproj" />
-    <Project Path="Tyuiu.TaranDA.Sprint1.Task0.V0.Test/Tyuiu.TaranDA.Sprint1.Task0.V0.Test.csproj" />
-    <Project Path="Tyuiu.TaranDA.Sprint1.Task0.V0/Tyuiu.TaranDA.Sprint1.Task0.V0.csproj" />
+    <Project Path="Tyuiu.TaranDA.Sprint1.Task0.V0.Lib/Tyuiu.TaranDA.Sprint1.Task0.V9.Lib.csproj" />
+    <Project Path="Tyuiu.TaranDA.Sprint1.Task0.V0.Test/Tyuiu.TaranDA.Sprint1.Task0.V9.Test.csproj" />
+    <Project Path="Tyuiu.TaranDA.Sprint1.Task0.V0/Tyuiu.TaranDA.Sprint1.Task0.V9.csproj" />
   </Folder>
 </Solution>

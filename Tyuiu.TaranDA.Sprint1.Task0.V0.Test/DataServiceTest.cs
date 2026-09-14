@@ -1,6 +1,6 @@
-﻿using Tyuiu.TaranDA.Sprint1.Task0.V0.Lib;
+﻿using Tyuiu.TaranDA.Sprint1.Task0.V9.Lib;
 
-namespace Tyuiu.TaranDA.Sprint1.Task0.V0.Test
+namespace Tyuiu.TaranDA.Sprint1.Task0.V9.Test
 {
     [TestClass]
     public sealed class DataServiceTest
