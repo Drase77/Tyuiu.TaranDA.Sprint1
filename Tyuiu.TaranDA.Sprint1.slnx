@@ -14,4 +14,29 @@
     <Project Path="Tyuiu.TaranDA.Sprint1.Task2.V11.Test/Tyuiu.TaranDA.Sprint1.Task2.V11.Test.csproj" Id="984781b5-032e-42d8-b292-4ab5f130aca1" />
     <Project Path="Tyuiu.TaranDA.Sprint1.Task2.V11/Tyuiu.TaranDA.Sprint1.Task2.V11.csproj" Id="ceddaf7a-f72c-47fc-810b-fa7aed5dc3b4" />
   </Folder>
+  <Folder Name="/Task3/">
+    <Project Path="Tyuiu.TaranDA.Sprint1.Task3.V5.Lib/Tyuiu.TaranDA.Sprint1.Task3.V5.Lib.csproj" Id="0a8da04a-a335-4eb5-9ebc-4623e15c467f" />
+    <Project Path="Tyuiu.TaranDA.Sprint1.Task3.V5.Test/Tyuiu.TaranDA.Sprint1.Task3.V5.Test.csproj" Id="736fc2b5-1fff-415d-be25-a3c9d561da3e" />
+    <Project Path="Tyuiu.TaranDA.Sprint1.Task3.V5/Tyuiu.TaranDA.Sprint1.Task3.V5.csproj" Id="6187bae0-715d-4873-afd1-f0e5a47c07d5" />
+  </Folder>
+  <Folder Name="/Task4/">
+    <Project Path="Tyuiu.TaranDA.Sprint1.Task4.V22.Lib/Tyuiu.TaranDA.Sprint1.Task4.V22.Lib.csproj" Id="a68f4af5-b944-4e9d-91a2-f00ce701c442" />
+    <Project Path="Tyuiu.TaranDA.Sprint1.Task4.V22.Test/Tyuiu.TaranDA.Sprint1.Task4.V22.Test.csproj" Id="2bd50088-0e4f-49f9-bf1a-edf10814c41f" />
+    <Project Path="Tyuiu.TaranDA.Sprint1.Task4.V22/Tyuiu.TaranDA.Sprint1.Task4.V22.csproj" Id="8fc0c377-6e17-47a5-b129-f63b97310466" />
+  </Folder>
+  <Folder Name="/Task5/">
+    <Project Path="Tyuiu.TaranDA.Sprint1.Task5.V2.Lib/Tyuiu.TaranDA.Sprint1.Task5.V2.Lib.csproj" Id="61a37714-8861-401f-afe3-4201d95b59b2" />
+    <Project Path="Tyuiu.TaranDA.Sprint1.Task5.V2.Test/Tyuiu.TaranDA.Sprint1.Task5.V2.Test.csproj" Id="bfc6fda0-a8ad-40d1-9943-508cc6d9f3fc" />
+    <Project Path="Tyuiu.TaranDA.Sprint1.Task5.V2/Tyuiu.TaranDA.Sprint1.Task5.V2.csproj" Id="992185ad-e8e5-4eb0-8fa4-42f7f9dfad2a" />
+  </Folder>
+  <Folder Name="/Task6/">
+    <Project Path="Tyuiu.TaranDA.Sprint1.Task6.V9.Lib/Tyuiu.TaranDA.Sprint1.Task6.V9.Lib.csproj" Id="1c02412e-9556-42de-9f31-b043f9dd1a83" />
+    <Project Path="Tyuiu.TaranDA.Sprint1.Task6.V9.Test/Tyuiu.TaranDA.Sprint1.Task6.V9.Test.csproj" Id="fba1fc35-ffec-481e-83db-96596ca4dce0" />
+    <Project Path="Tyuiu.TaranDA.Sprint1.Task6.V9/Tyuiu.TaranDA.Sprint1.Task6.V9.csproj" Id="cf5d15c9-9d57-4e33-8d06-699b6fa13d58" />
+  </Folder>
+  <Folder Name="/Task7/">
+    <Project Path="Tyuiu.TaranDA.Sprint1.Task7.V27.Lib/Tyuiu.TaranDA.Sprint1.Task7.V27.Lib.csproj" Id="3a5bce45-064a-4d56-a688-8918cb2c8f65" />
+    <Project Path="Tyuiu.TaranDA.Sprint1.Task7.V27.Test/Tyuiu.TaranDA.Sprint1.Task7.V27.Test.csproj" Id="805f4b55-1593-4fb7-863e-8da9969f9039" />
+    <Project Path="Tyuiu.TaranDA.Sprint1.Task7.V27/Tyuiu.TaranDA.Sprint1.Task7.V27.csproj" Id="7e9d45f0-d6d6-4237-81b4-2af8a9d828d3" />
+  </Folder>
 </Solution>

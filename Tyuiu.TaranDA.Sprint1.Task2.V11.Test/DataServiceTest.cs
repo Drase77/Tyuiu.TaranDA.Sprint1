@@ -3,7 +3,7 @@
 namespace Tyuiu.TaranDA.Sprint1.Task2.V11.Test
 {
     [TestClass]
-    public sealed class DataServiceTest
+    public class DataServiceTest
     {
         [TestMethod]
         public void ValidExpression()
